@@ -1,7 +1,7 @@
 <script>
     //Fonte: https://forum.imasters.com.br/topic/410822-resolvido%C2%A0porcentagem/
     //Post:Ariane Stela
-    //Adptações: André de Castro / 2019
+    //Adaptações: André de Castro / 2019
     function moeda2float(moeda)
 	{        
 		//retirar os pontos        
